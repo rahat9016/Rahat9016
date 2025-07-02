@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat9016" alt="rahat9016" /></a> </p>
 
-- 🔭 I’m currently working on [Rahat Shop](https://github.com/rahat9016/rahat-shop-frontend)
+- 🔭 I’m currently working on [RCRM](https://github.com/rahat9016/rcrm-backend)
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **Django, DRF, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://my-professional-portfolio-mrr.web.app/](https://my-professional-portfolio-mrr.web.app/)
+- 👨‍💻 All of my projects are available at [https://v0-glassmorphic-portfolio-vert.vercel.app/](https://v0-glassmorphic-portfolio-vert.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **minhajurrohoman9016@gmail.com**
 
