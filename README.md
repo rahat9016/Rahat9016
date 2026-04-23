@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhajur Rahman</h1>
-<h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Full Stack Developer | Next.js • NestJS • DevOps</h3>
 
 ---
 
